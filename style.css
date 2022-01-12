@@ -3,3 +3,11 @@
     height: 160;
     border-radius: 50%;
 }
+
+h4 {
+    margin-top: 30;
+}
+
+li {
+    display: block;
+}
